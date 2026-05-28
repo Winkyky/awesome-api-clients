@@ -11,10 +11,9 @@ If you wish to contribute: [start a pull request](https://github.com/stepci/awes
 - [Restfox](https://restfox.dev) ([repo](https://github.com/flawiddsouza/Restfox)) - Offline-first web HTTP client
 - [Hoppscotch](https://hoppscotch.io) ([repo](https://github.com/hoppscotch/hoppscotch)) - Open source API development ecosystem
 - [Firecamp](https://firecamp.io) ([repo](https://github.com/firecamp-dev/firecamp)) - Open Source Postman Alternative inspired by VS Code DX
-- [RecipeUI](https://recipeui.com) ([repo](https://github.com/RecipeUI/RecipeUI)) - RecipeUI is the Postman alternative with type safety built in
 - [gRPC UI](https://github.com/fullstorydev/grpcui) - An interactive web UI for gRPC, along the lines of postman
 - [Yaade](https://docs.yaade.io) ([repo](https://github.com/EsperoTech/yaade)) - Yaade is an open-source, self-hosted, collaborative API development environment
-- [Prestige](https://prestige.dev) ([repo](https://github.com/sharat87/prestige)) - A text-based in-browser HTTP client, an interface-less Postman alternative
+- Prestige ([repo](https://github.com/sharat87/prestige)) - A text-based in-browser HTTP client, an interface-less Postman alternative
 - [Requestly](https://requestly.com) ([repo](https://github.com/requestly/requestly)) - A Browser extension with API Client, API Mocking & API Interception and Modification capabilities.
 
 ## Desktop
@@ -29,15 +28,18 @@ If you wish to contribute: [start a pull request](https://github.com/stepci/awes
 - [Pororoca](https://pororoca.io) ([repo](https://github.com/alexandrehtrb/Pororoca)) - A HTTP inspection tool with support for HTTP/2 and HTTP/3, an alternative to Postman
 - [Nightingale REST Client](https://nightingale.rest/) ([repo](https://github.com/jenius-apps/nightingale-rest-api-client)) - A modern, open-source, resource-efficient REST API client for Windows
 - [Requestly](https://requestly.com) ([repo](https://github.com/requestly/requestly)) - A desktop app with API Client, API Mocking & API Interception and Modification capabilities.
+- [Cartero](https://cartero.danirod.es/) ([repo](https://github.com/danirod/cartero)) - A native, lightweight, multiplatform and free HTTP client
+- [Voiden](https://voiden.md) ([repo](https://github.com/VoidenHQ/voiden)) - Local, file-based, keyboard-first API client using executable Markdown, designed for version-controlled workflows (no sign up required)
+- [EasyPostman](https://github.com/lakernote/EasyPostman) - An open-source API debugging and performance testing tool inspired by Postman and a simplified JMeter
 
 ## IDE
 
 - [VS Code REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) ([repo](https://github.com/Huachao/vscode-restclient)) - Send HTTP request and view the response in Visual Studio Code
-- [RESTClient](https://addons.mozilla.org/en-US/firefox/addon/restclient/) - A Firefox debugger for RESTful web services
 - [restclient.el](https://github.com/pashky/restclient.el) - HTTP REST client tool for emacs
 - [verb](https://github.com/federicotdn/verb) - Organize and send HTTP requests from Emacs
 - [rest.nvim](https://github.com/rest-nvim/rest.nvim) - A fast Neovim http client written in Lua
 - [kulala.nvim](https://github.com/mistweaverco/kulala.nvim) - A minimal REST-Client Interface for Neovim.
+- [resterm](https://github.com/unkn0wn-root/resterm) - Terminal REST/Graphql/gRPC client written in Go.
 
 ## CLI
 
@@ -52,6 +54,8 @@ If you wish to contribute: [start a pull request](https://github.com/stepci/awes
 - [evans](https://github.com/ktr0731/evans) - Evans: more expressive universal gRPC client
 - [httpYac](https://httpyac.github.io/) ([repo](https://github.com/anweber/httpyac)) - Yet another REST client to send REST, SOAP, GraphQL and gRPC requests
 - [ATAC](https://atac.julien-cpsn.com/) ([repo](https://github.com/Julien-cpsn/ATAC)) - A simple postman like API client for terminal
+- [Better Curl Saul](https://github.com/DeprecatedLuar/better-curl-saul) - Workspace-based HTTP client with interactive variable prompting and TOML configuration
+- [Slumber](https://slumber.lucaspickering.me/) ([repo](https://github.com/LucasPickering/slumber)) - A terminal-based HTTP/REST client, with TUI and CLI usage mods
 
 ## Automated Testing
 - [Step CI](https://stepci.com) ([repo](https://github.com/stepci/stepci)) - Open-source API Test Automation framework
